@@ -4,7 +4,7 @@ A program for displaying a rotating cube by means of OpenGL and GLUT.
 
 ## Usage
 
-- `$>make RotatingCibe`
+- `$>make RotatingCube`
 - `$>./RotatingCube`
 - The left mouse button sets the rotation relative to the x axis, \
   the middle one relative to y, \
