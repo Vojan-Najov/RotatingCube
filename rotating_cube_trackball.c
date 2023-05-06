@@ -16,6 +16,7 @@ static void stopMotion(int x, int y);
 
 static void trackball_ptov(int x, int y, int width, int height, float v[3]);
 
+
 static int ww = 500, wh = 500;
 static float angle = 0.0;
 static float axis[3];
